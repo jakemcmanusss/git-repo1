@@ -1,1 +1,3 @@
-# git-repo1
+# git-repo1!
+
+we are creating examples using GIT!
